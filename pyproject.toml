@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "telegram-bot"
 version = "0.1.0"
-description = ""
+description = "Sample playground for telegram bot API experiments"
 authors = ["Anton Skopin <askopin@gmail.com>"]
 readme = "README.md"
 packages = [{include = "telegram_bot"}]
